@@ -19,6 +19,6 @@ NOTE:
 * You are allowed to access your section only,
 
 STEPS:
-1. Download the file @ https://github.com/RailwaySouth/Congregation-Members-Card/edit/main.
+1. Download the file @ https://github.com/RailwaySouth/Congregation-Members-Card/raw/main/Railway%20South%20Twi%20Congregation's%20Report.xlsx
 2. Update the file with the data you have.
 3. upload it to this site for others to have access.
